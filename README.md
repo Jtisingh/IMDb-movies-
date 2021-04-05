@@ -1,2 +1,2 @@
-# IMDb-movies-
+# IMDb-movies
 IMDb movies review Analysis
